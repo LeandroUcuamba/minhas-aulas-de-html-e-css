@@ -1,0 +1,23 @@
+ a{
+      color: red;
+      text-decoration: none;
+      font-size: 18px;
+  }
+ h1{
+      font-family: helvetica, sans-serif;
+   }
+ #segundo{
+ 	 color: orange;
+ }
+
+ .ex{
+ 	color: brown;
+ }
+
+
+/* a uma regra para fazer exeções */
+/* neste caso só as class "instrument" que serão afetados são as 
+as dentro da tag <a> */
+ a.instrument{
+ 	color: green;
+ }

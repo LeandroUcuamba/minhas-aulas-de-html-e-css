@@ -1,0 +1,12 @@
+h1{
+	color: #ff6600;
+	letter-spacing: -1px; /* É para juntar ou separar a letra pode ser um valor n>0>n  */
+	text-transform: capitalize; /* transformar uma letra maiuscula,minuscula ou com as inicias maiusculas */
+	text-shadow: 1px 1px black;
+}
+
+.p1{
+    text-indent: 0px; /* espaçamento no primeiro paragrafo  */
+	width: 650px;
+	text-align: justify; /* alinha o texto para o direito, esquerdo, centro ou justificado */
+}
